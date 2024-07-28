@@ -4,7 +4,7 @@ let pNumber = 42324;
 if (pNumber == +pNumber.toString().split('').reverse().join('')){
      console.log(true)
 } else {
-    console.log(false)
+    // console.log(false)
 }
 
 // without converting to string
@@ -20,6 +20,4 @@ while(pNumber > 0){
     pNumber = Math.floor(pNumber/10)
 
 }
-
-console.log(originalNumber , revereseNumber);
-console.log(originalNumber == revereseNumber)
+ 

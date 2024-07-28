@@ -5,7 +5,7 @@
         "type": "node-terminal",
         "name": "Local",
         "request": "launch",
-        "command": "node Recursion/1.form_number_start_end.js",
+        "command": "node array/1.consecutive.js",
         "cwd": "${workspaceFolder}"
       }
     ]
