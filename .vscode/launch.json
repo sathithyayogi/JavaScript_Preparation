@@ -5,7 +5,7 @@
         "type": "node-terminal",
         "name": "Local",
         "request": "launch",
-        "command": "node array/1.consecutive.js",
+        "command": "node array/2.product_self.js",
         "cwd": "${workspaceFolder}"
       }
     ]
